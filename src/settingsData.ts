@@ -1,0 +1,3 @@
+export const settingsData = {
+  "musicUrl": "https://www.image2url.com/r2/default/audio/1779605277020-c303c35e-9a3a-48b9-9632-7122a3d4f357.mp3"
+};

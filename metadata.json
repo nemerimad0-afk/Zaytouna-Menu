@@ -1,0 +1,8 @@
+{
+  "name": "Al Zaytouna Restaurant & Cafe",
+  "description": "القائمة الرقمية الفاخرة والأنيقة لمطعم وكافيه الزيتونة - تصفح للمشاوي، المعجنات، الحلويات، والمشروبات مع سلة طلبات تجريبية تفاعلية.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
