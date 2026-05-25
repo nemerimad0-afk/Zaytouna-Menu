@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Amiri:ital,wght@0,400;0,700;1,400;1,700&family=Cairo:wght@200..1000&family=Cinzel:wght@400..900&display=swap');
 @import "tailwindcss";
 
 @theme {
@@ -12,11 +13,13 @@
   --color-timber: #331f16;
   
   --font-cairo: "Cairo", ui-sans-serif, system-ui, sans-serif;
+  --font-amiri: "Amiri", serif;
+  --font-cinzel: "Cinzel", serif;
 }
 
 @layer base {
   body {
-    background-color: #0d160e;
+    background-color: #050805;
     color: #f6fdf7;
     font-family: var(--font-cairo);
     -webkit-font-smoothing: antialiased;
